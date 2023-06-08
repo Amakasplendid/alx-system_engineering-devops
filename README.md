@@ -1,1 +1,1 @@
-Basic shell command
+Shell permission of ownership
