@@ -1,1 +1,1 @@
-Print Hello, World
+Script for confused smiley
